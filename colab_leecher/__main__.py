@@ -23,9 +23,9 @@ async def start(client, message):
         [
             [
                 InlineKeyboardButton(
-                    "Repository 🦄", url="_"
+                    "Repository 🦄", url="https://github.com/flyingdisc/Teleecher"
                 ),
-                InlineKeyboardButton("Support 💝", url="_"),
+                
             ],
         ]
     )
