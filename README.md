@@ -6,6 +6,8 @@
 
 <p align="center"><strong>Do not use, fork or run this repo, as it may not give expected result in your environment.</strong></p>
 
+<p align="center"><strong>Instead, you should use the repo in below copyright.</strong></p>
+
 <p align="center"><strong>Copyright https://github.com/XronTrix10</strong></p>
 
 <br>
