@@ -393,17 +393,17 @@ async def help_command(client, message):
                 [
                     InlineKeyboardButton(
                         "Instructions 📖",
-                        url="https://github.com/XronTrix10/Telegram-Leecher/wiki/INSTRUCTIONS",
+                        url="https://www.twitter.com",
                     ),
                 ],
                 [
                     InlineKeyboardButton(  # Opens a web URL
                         "Channel 📣",
-                        url="https://t.me/Colab_Leecher",
+                        url="https://www.instagram.com",
                     ),
                     InlineKeyboardButton(  # Opens a web URL
                         "Group 💬",
-                        url="https://t.me/Colab_Leecher_Discuss",
+                        url="https://www.facebook.com",
                     ),
                 ],
             ]
